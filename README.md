@@ -1,8 +1,7 @@
-## I'm a Developer, and Researcher!
+## I'm a Developer and Researcher!
 
 - 🔭 I’m currently working on a [freelance][website]!
 - 🌱 I’m currently learning Machiene Learning and Deep Learning 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Coffee
 
