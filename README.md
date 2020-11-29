@@ -32,5 +32,5 @@
 
 <p style="float: left;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isakulaksiz&show_icons=true&locale=en&layout=compact" alt="isakulaksiz" /></p>
 
-<p style="float: left;>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isakulaksiz&show_icons=true&locale=en" alt="isakulaksiz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isakulaksiz&show_icons=true&locale=en" alt="isakulaksiz" /></p>
 
