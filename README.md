@@ -2,12 +2,12 @@
 ```javascript
 const me = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Java", "Php"],
-    askMeAbout: ["web dev", "machiene learning", "deep learning", "data mining"],
+    code: ["Javascript", "Java/Kotlin", "Python"],
+    askMeAbout: ["Mobile dev", "machiene learning", "deep learning", "data mining"],
     technologies: {
         fullStack: {
             js: ["react", "express"],
-            php: ["symfony"],
+            python: ["pandas", "numpy"],
             java: ["Spring"]
         },
         devOps: ["Docker🐳"],
