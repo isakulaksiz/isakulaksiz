@@ -16,6 +16,7 @@ const me = {
     },
     architecture: ["Micro Service", "Single page applications"],
     currentProject: "I am using and learning Spring Boot for MicroService Architecture",
+    educatio: "BSc. Computer Engineering at Karabuk University MSc. Can. Ataturk University",
     trueFact: "Be yourself no matter what they say !"
 };
 ```
