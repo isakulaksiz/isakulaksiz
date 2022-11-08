@@ -15,7 +15,7 @@ const me = {
         other: ["Selenium", "Jest"]
     },
     architecture: ["Micro Service", "Single page applications"],
-    currentProject: "I am using and learning Spring Boot for MicroService Architecture",
+    currentProject: "I am using and learning Java/Kotlin for Mobile Development",
     education: "BSc. Computer Engineering at Karabuk University MSc. Can. Ataturk University",
     trueFact: "Be yourself no matter what they say !"
 };
