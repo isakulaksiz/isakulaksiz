@@ -8,14 +8,14 @@ const me = {
         fullStack: {
             js: ["react", "express"],
             python: ["pandas", "numpy"],
-            java: ["Spring"]
+            c#: [".Net",".Net Core"]
         },
         devOps: ["Docker🐳"],
         databases: ["Mongo", "MySql", "sqlite"],
         other: ["Selenium", "Jest"]
     },
     architecture: ["Micro Service", "Single page applications"],
-    currentProject: "I am using and learning Java/Kotlin for Mobile Development",
+    currentProject: "NLP && Fake News Detection ",
     education: "BSc. Computer Engineering at Karabuk University MSc. Can. Ataturk University",
     trueFact: "Be yourself no matter what they say !"
 };
