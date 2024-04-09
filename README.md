@@ -13,7 +13,7 @@ const me = {
         databases: ["Mongo", "MySql", "MsSQL", "SQLite"]
     },
     currentProject: "Natural Language Processing",
-    education: "BSc. Computer Engineering at Karabuk University MSc. Can. Ataturk University",
+    education: "BSc. Karabuk University MSc. Ataturk University",
     trueFact: "Be yourself no matter what they say !"
 };
 ```
