@@ -3,7 +3,7 @@
 const me = {
     pronouns: "He" | "Him",
     code: ["C#", "Java/Kotlin", "Python"],
-    askMeAbout: ["Mobile Dev", "Backend Dev", "Machiene Learning", "Deep Learning"],
+    askMeAbout: ["Backend Dev", "Machine Learning", "Deep Learning"],
     technologies: {
         fullStack: {
             python: ["pandas", "numpy"],
