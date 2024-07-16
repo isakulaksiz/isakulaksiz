@@ -10,7 +10,7 @@ const me = {
             c#: [".Net",".Net Core"]
         },
         devOps: ["Docker🐳","Azure"],
-        databases: ["Mongo", "MySql", "MsSQL", "SQLite"]
+        databases: ["Mongo", "MySql", "MsSQL"]
     },
     currentProject: "Natural Language Processing",
     education: "BSc. Karabuk University MSc. Ataturk University",
